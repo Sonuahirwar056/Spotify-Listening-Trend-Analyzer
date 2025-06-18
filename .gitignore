@@ -1,3 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+env/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
