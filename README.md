@@ -1,3 +1,6 @@
+“Analyze top tracks of Spotify artists using Python & Spotipy.”
+
+
 # 🎧 Spotify Listening Trend Analyzer
 
 Analyze and visualize the top tracks of any artist using Spotify's Web API.
