@@ -1,5 +1,5 @@
 
-python,
+python
 ,spotify-api
 ,data-analysis
 ,visualization
