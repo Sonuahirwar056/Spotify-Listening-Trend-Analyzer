@@ -1,10 +1,10 @@
 
-python
-spotify-api
-data-analysis
-visualization
-spotipy
-colab
+python,
+,spotify-api
+,data-analysis
+,visualization
+,spotipy
+,colab
 
 “Analyze top tracks of Spotify artists using Python & Spotipy.”
 
